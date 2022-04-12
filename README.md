@@ -1,4 +1,4 @@
-- Hi, I’m @SuchitReddi
+- Hi, I’m Suchit Reddi
 - I’m interested in Information and Cyber Security
 - I’m currently learning Cyber Security and French
 <!---
