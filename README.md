@@ -1,5 +1,5 @@
 - Hi, I’m Suchit Reddi
-- Interested in Information and Cyber Security
+- Interested in Cyber Security (Forensics)
 - Currently learning Cyber Security and French
 - Worked on Threats of Keyloggers and Voice Spoofing Detection.
 <!---
